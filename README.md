@@ -1,10 +1,12 @@
 # Breast Cancer Wisconsin (Diagnostic) - ML Classification
 
-**BITS Pilani - ML Assignment 2**
-**Author:** Vipul Prakash Chaudhari
+**BITS Pilani - ML Assignment 2** 
 
-**BITS-ID 2025AA05991
-Date:** February 2026
+**Name:** Vipul Prakash Chaudhari 
+
+**BITS-ID** 2025AA05991 
+
+**Date:** 12 Feb 2026
 
 ---
 
@@ -153,3 +155,4 @@ Six machine learning models were trained and evaluated on the same dataset:
 - **Ensemble advantage:** RF and XGBoost show consistent performance across metrics
 - **Recall priority:** For cancer detection, XGBoost's high recall (95.35%) minimizes false negatives
 - **Production choice:** Logistic Regression offers best balance of performance, speed, and interpretability
+
